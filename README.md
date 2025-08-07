@@ -32,11 +32,11 @@ Build a basic task tracker where users can:
 ---
 
 ## 📁 Suggested Folder Structure
-<pre lang="md"> ```bash project-root/
+<pre lang="md">project-root/
 │
 ├── server/ # NestJS backend
 ├── client/ # React frontend
-└── README.md```</pre>
+└── README.md</pre>
 
 ---
 

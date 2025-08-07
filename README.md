@@ -32,11 +32,11 @@ Build a basic task tracker where users can:
 ---
 
 ## 📁 Suggested Folder Structure
-project-root/
+<pre lang="md"> ```bash project-root/
 │
 ├── server/ # NestJS backend
 ├── client/ # React frontend
-└── README.md
+└── README.md```</pre>
 
 ---
 
@@ -47,7 +47,7 @@ project-root/
 3. **Clone** the empty GitHub repository.
 4. **Create a new branch** from `main` called `dev`:
    ```bash
-   git checkout -b dev ```
+   git checkout -b dev
 5. **Commit regularly** with clear messages:
     - feat(backend): implement basic task endpoints
     - feat(frontend): create task list component
